@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Full Stack Developer | Cloud Native Enthusiast ☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Full+Stack+Developer+%7C+Go+Developer+%7C+Linux+Power+User" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&width=700&lines=%7C+Full+Stack+Developer+%7C+Go+Developer+%7C+DevOps+Engineer" />
 </p>
 
 ---
